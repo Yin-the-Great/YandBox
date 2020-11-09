@@ -18,3 +18,9 @@ Empire Yin Sandbox project
     > * Configuration task(Java, Spring): kenny
     > * Configuration task(Mybatis):yikui
     > * Invesstigation task(remote developing): yikui  
+
+* Meeting 2020/11/8
+    >> discuss about the structure of Yandbox-Platform, start the designing works.
+    > * Analysis the task part: kenny
+    > * Analysis the user part: yikui
+    
