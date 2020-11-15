@@ -25,6 +25,6 @@ Empire Yin Sandbox project
     > * Analysis the user part: yikui
     
 * Meeting 2020/11/15
-    >> discuss about the structure of Yandbox-Platform, start the designing works.
+    >> according to talking problem, adjust design and create table.
     > * kenny: task document complementation, task table creation.
     > * yikui: database complexity investigation, user table creation.
