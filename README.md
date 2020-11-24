@@ -28,3 +28,8 @@ Empire Yin Sandbox project
     >> according to talking problem, adjust design and create table.
     > * kenny: task document complementation, task table creation.
     > * yikui: database complexity investigation, user table creation.
+
+* Meeting 2020/11/22
+    >> create table and learning and create front-end UI.
+    > * kenny: task table creation, task UI creation.
+    > * yikui: UI framework investigation, user UI creation.
